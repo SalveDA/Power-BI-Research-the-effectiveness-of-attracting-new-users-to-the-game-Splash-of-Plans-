@@ -34,3 +34,8 @@ and the three least effective campaigns:
 **Recommendations:**
 
 Stop the action of campaigns that bring losses and conduct an analysis to identify the reasons for their low performance. It is also worth paying attention to the unstable dynamics of LTV indicators in successful companies and conduct additional research in order to identify the reasons for this kind of trend and bring performance indicators to a stable high level.
+
+<br/>
+<br/>
+
+![splash_of_plans](https://github.com/SalveDA/Power_BI/blob/main/splash%20of%20plans%20v.2.png)
